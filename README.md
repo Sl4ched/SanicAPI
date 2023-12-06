@@ -1,6 +1,6 @@
 ## I used in this project
 
-<h1>As Backend</h1>
+<h1>Backend</h1>
 <ul>
     <li>SANIC</li>
     <li>SANIC-MOTOR</li>
@@ -9,7 +9,7 @@
 </ul>
 
 ---
-<h1>As Frontend</h1>
+<h1>Frontend</h1>
 <ul>
     <li>React</li>
     <li>Taiwind</li>
