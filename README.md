@@ -13,7 +13,6 @@
 <ul>
     <li>React</li>
     <li>Taiwind</li>
-    <li>RestAPI</li>
 </ul>
 
 ---
